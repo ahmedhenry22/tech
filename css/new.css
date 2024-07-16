@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.landing {
+  height: 100vh;
+  background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar .navbar-toggler:focus {
+  box-shadow: none;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #0d6efd;
+  color: white;
+}
